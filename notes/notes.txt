@@ -1,0 +1,14 @@
+main -> ngModule -> component
+
+@Injectable for service
+
+@Input for sharing object croess component [hero]="selectedHero"
+
+FormsModule '@angular/forms'
+
+declaration component
+providers	services
+
+
+(click)="selectHero(hero)"
+[(ngModel)]="selectedHero"
